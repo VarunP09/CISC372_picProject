@@ -1,0 +1,9 @@
+Script started on Wed Apr  8 17:16:42 2026
+]0;varunp@r1n07.darwin:~/CISC372_picProject[?1034h[varunp@r1n07 CISC372_picProject]$ srun ./imageP pic1.jpg sharpen       edge
+Took 6 seconds
+]0;varunp@r1n07.darwin:~/CISC372_picProject[varunp@r1n07 CISC372_picProject]$ srun ./imageO pic1.jpg sharpen
+Took 7 seconds
+]0;varunp@r1n07.darwin:~/CISC372_picProject[varunp@r1n07 CISC372_picProject]$ exit
+exit
+
+Script done on Wed Apr  8 17:17:22 2026
